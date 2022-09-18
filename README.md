@@ -1,7 +1,7 @@
 # BP-RBF-Prediction
-使用BP神经网络、RBF神经网络以及PSO优化的RBF神经网络进行数据的预测。  
-数据采用的是（52，4）的shape，分为了训练集和测试集，对四个特征（由num=1,2,3,4参数控制）分别进行预测。  
-最后会输出神经网络分别在训练集和测试集上的效果图，以及在训练集和测试集上的误差。  
+Data prediction is made using BP neural networks, RBF neural networks, and RBF neural networks optimized for PSO.  
+The data uses (52,4) of shape, divided into training sets and test sets, and predicts four features (controlled by num=1,2,3,4 parameters).  
+Finally, the renderings of the neural network on the training and test sets, respectively, and the errors on the training and test sets are output.  
 ****
 BP:
 ![Image text](https://github.com/stxupengyu/BP-RBF-Prediction/blob/master/img-folder/1.png)  
